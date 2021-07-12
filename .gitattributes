@@ -1,0 +1,2 @@
+YoumeVideoSDK_3.4.0.895_ios filter=lfs diff=lfs merge=lfs -text
+libYouMeCommon.a filter=lfs diff=lfs merge=lfs -text
